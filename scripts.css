@@ -1,0 +1,2 @@
+let nombre = promt("Dime tu nombre")
+alert('Bienvenido ${nombre}')
